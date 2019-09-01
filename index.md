@@ -1,3 +1,9 @@
+# Simon Yan's First CS193 Homework
+
+- The class feels pretty chill, especially the teachers.
+- The classroom is pretty big and usually has open seats where I want to sit.
+- The teachers are relatively good at explaining the material (so far).
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
